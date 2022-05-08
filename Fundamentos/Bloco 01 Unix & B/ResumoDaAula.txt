@@ -1,0 +1,3 @@
+Links que podem ajudar com o conteudo de unix bash :
+
+https://fragrant-blue-220.notion.site/Bloco-01-Unix-Bash-Pts-1-e-2-37016b484cc9409f959de5bbc4ede7cd
