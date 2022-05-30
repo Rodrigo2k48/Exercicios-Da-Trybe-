@@ -1,0 +1,36 @@
+h1 { 
+  font-family: sans-serif,monospace;
+}
+
+body { 
+font-size: 16px;
+}
+
+p {
+ font-weight: 600;
+
+ font-size: 3em;
+
+
+  font-style: italic;
+
+
+line-height: 30px;
+
+
+text-align: center;
+
+
+  text-decoration: underline; }
+
+
+  #mar {
+    background-color: blue;
+  }
+  #podpah {
+    background-color:rgb(255, 219, 88);
+  }
+  
+  #aqualed {
+    background-color: aqua;
+  }
