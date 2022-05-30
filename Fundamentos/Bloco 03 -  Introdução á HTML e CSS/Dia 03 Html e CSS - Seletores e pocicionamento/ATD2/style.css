@@ -17,21 +17,21 @@
 .baloon {
   position: absolute;
   top: 250px;
-  left: 400px;
+  right: 700px;
 }
 
 /* 2 - Posicione a tag p para que fique dentro do balão de fala. */
 .speach {
   font-size: 25px;
   position: absolute;
-  top: 290px;
-  left: 420px;
+  top: 292px;
+  left: 460px;
   z-index: 2;
 }
 
 .bowser {
   width: 200px;
   position: absolute;
-  top: 300px;
+  bottom: 120px;
   left: 700px;
 }
