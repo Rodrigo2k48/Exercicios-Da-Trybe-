@@ -1,4 +1,4 @@
-const currentHour = 2;
+const currentHour = 34;
 
 let message;
 /* Horario maior ou igual que 22 */

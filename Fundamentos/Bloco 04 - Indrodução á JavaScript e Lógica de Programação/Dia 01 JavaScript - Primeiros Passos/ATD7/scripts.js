@@ -1,7 +1,5 @@
 /* A Forma Mais Correta de ser 
 usar Switchs*/
-
-
 let statusPessoa = 'LBATATA'
 switch (statusPessoa) {
   case 'Aprovada':

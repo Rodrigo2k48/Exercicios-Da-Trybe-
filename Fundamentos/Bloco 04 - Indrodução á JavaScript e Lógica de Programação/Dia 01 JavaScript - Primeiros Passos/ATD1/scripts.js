@@ -5,13 +5,17 @@ O JS NO CONSOLE.LOG, SEMPRE BOM
 LEMBRAR QUE SE TU NÃO SALVAR O CODIGO 
 NÃO VAI PRINTAR NADAAAAAAAAAAAAAAAAAAAAAA!!!!! */
 
-const myName = 'Rodrigo';
+const myName = 'Léticia';
 
-const birthCity = 'Nova Friburgo';
+const birthCity = 'Rio de Janeiro';
 
-let birthYear = 2003;
-
-console.log(birthYear);
+let birthYear = 2030;
 
 
+/* DÁ PARA PRINTAR VARIAS VARIAVEIS DENTRO DE UM
+CONSOLE.LOG*/
+console.log(myName, birthYear, birthCity);
 
+
+
+  
