@@ -1,0 +1,17 @@
+h1, p {
+  text-align: center;
+}
+/* o "list-style:none" tira todos os marcadores padroes das listas, tira as bolinhas e os numeros caso seja uma lista ordenada */
+li, ol {
+  list-style: none;
+  font-size: 30px;
+}
+li:hover {
+background-color: rgb(243, 126, 184);
+
+}
+
+li:active {
+  color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,17 @@
+
+/* AS VARIAVEIS QUE PODEMOS USAR 
+NO JAVASCRIPT, E COMO PRINTAR TODO 
+O JS NO CONSOLE.LOG, SEMPRE BOM
+LEMBRAR QUE SE TU NÃO SALVAR O CODIGO 
+NÃO VAI PRINTAR NADAAAAAAAAAAAAAAAAAAAAAA!!!!! */
+
+const myName = 'Rodrigo';
+
+const birthCity = 'Nova Friburgo';
+
+let birthYear = 2003;
+
+console.log(birthYear);
+
+
+

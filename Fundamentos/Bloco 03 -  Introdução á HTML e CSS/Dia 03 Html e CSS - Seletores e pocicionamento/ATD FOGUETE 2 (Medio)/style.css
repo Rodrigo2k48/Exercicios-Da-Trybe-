@@ -1,0 +1,50 @@
+/* Tome sempre cuidado com a decendencia dos elementos recomendo sempre ler a decendencia mentalmente para ver se está tudo certinho  */
+
+ol.altColor li:nth-of-type(2n){
+  color:white
+  }
+
+.altColor{
+background-color: yellow;
+}
+
+ol.impar li:nth-of-type(2n+1) {
+  text-transform:uppercase ;
+}
+
+h3 {
+  color:red;
+}
+
+h1 {
+  font-size: 40px;
+  border: 1px solid black;
+  color: red;
+} 
+
+li {
+  font-size: 20px;
+}
+
+ol.altColor em{
+  font-weight: 800;
+}
+
+ul#blueJava li:nth-of-type(1) {
+  color:blue 
+  }
+  ul#blueJava li:nth-of-type(2) {
+    color:blue;
+    background-color: pink;
+    }
+    ul#blueJava li:nth-of-type(3) {
+      color:blue 
+      }              
+/* AQUI A MENTE EXPLODIU KKKK DÁ PRA BUSCAR UMA ID COM TODOS OS ELEMENTOS USANDO LINK..."*" tu usa quando não sabe muito bem como é o link e tu coloca "trybe" por que tem trybe no link...css que lute pra saber qual é o link */
+#mMouse li a[href*="trybe"]:hover {
+color: rgb(160, 189, 160);
+background-color: green;
+} 
+#mMouse li a[href*="stackoverflow"] {
+  color: orange;
+background-color: ;}
